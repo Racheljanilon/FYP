@@ -16,6 +16,8 @@ sudo apt-get update
 sudo apt-get install -y --no-install-recommends \
   texlive-latex-recommended \
   texlive-latex-extra \
+  texlive-bibtex-extra \
+  texlive-science \
   texlive-xetex \
   texlive-fonts-recommended \
   texlive-fonts-extra \
